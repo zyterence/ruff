@@ -1,0 +1,13 @@
+{
+    "name": "start-ruff",
+    "version": "0.1.0",
+    "description": "start project",
+    "author": "Yang",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "ruff-mbd-v1": "^2.0.4",
+            "button-gpio": "^1.0.1"
+        }
+    }
+}

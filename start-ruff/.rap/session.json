@@ -1,0 +1,21 @@
+{
+    "devices": [
+        {
+            "name": "Mechanic",
+            "sn": "R0100242",
+            "mac": "30:44:a1:00:01:e4",
+            "address": "192.168.0.109"
+        }
+    ],
+    "active": {
+        "index": 0,
+        "name": "Mechanic",
+        "sn": "R0100242",
+        "mac": "30:44:a1:00:01:e4",
+        "address": "192.168.0.109",
+        "port": 58004,
+        "type": "ruff-device",
+        "version": 3
+    },
+    "token": "1d8762429f330997b4ee638e6245cc5d"
+}

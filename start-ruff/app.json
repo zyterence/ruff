@@ -1,0 +1,19 @@
+{
+    "board": "ruff-mbd-v1",
+    "devices": [
+        {
+            "id": "red_button",
+            "model": "CK002",
+            "driver": "button-gpio",
+            "inputs": {
+                "gpio": {
+                    "type": "gpio",
+                    "args": {
+                        "direction": "in",
+                        "edge": "both"
+                    }
+                }
+            }
+        }
+    ]
+}
